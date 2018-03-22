@@ -27,7 +27,8 @@ NOTA:
 Como alterar entre cada um dos métodos:
      Na função main do programa estão comentados os diferentes métodos, da forma: “bool ok = nome do método;” e para testar cada um deles basta retirar o comentário na linha do método que quer testar.
 
-Diogo Pereira           201605323
-Afonso Fernandes        291696852
-Lucas Paula             201608440
+| Autor            |   Numero UP       |
+|------------------|:-----------------:|
+|Diogo Pereira     |   201605323       |
+|Afonso Fernandes  |   201696852       |
 
