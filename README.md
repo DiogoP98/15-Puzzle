@@ -1,34 +1,34 @@
-JOGO DOS 15
+15 PUZZLE
 -------------------------------------------
 
-Descrição do programa:
-        Neste programa “jogo15.cpp” temos todas as estratégias de procura, sendo elas, DFS, BFS,IDFS, gulosa e A*, sendo que as últimas duas usam duas heurísticas: peças fora do lugar e Manhattan distance. Os nós, que representam as várias configurações são representadas numa classe, que contém o array das posições de cada peça na configuração, a posição zero, a profundidade e uma string com o caminho até chegar á configuração final. 
-
--------------------------------------------
-
-Requerimentos:
-	Compilador c++ versão 11.
-	OS linux. (necessário para imprimir informação sobre a memória utilizada)
+Program description:
+        In this program “jogo15.cpp” we have some serach algorithms, being them: DFS, BFS,IDFS, greddy e A*. For the last 2 we use two different heuristics: misplaced tiles and Manhattan distance. The nodes, which represent the configurations on the tree are repesented on a class, which has an array with the position of each tile, the position with no tile (0),depth and a string with the path to the final node. 
 
 -------------------------------------------
 
-Instruções para compilar e executar:
-	Compilar: g++ -std=c++11 all.cpp
-	executar: ./a.out
+Requeriments:
+	C++ complier version 11.
+	OS linux. (to use the function which prints the memory used)
 
 -------------------------------------------
 
-Execução:
-	Irá ser pedido as configurações iniciais e finais que devem ter o aspeto do seguinte exemplo: “1 2 3 4 5 6 8 12 13 9 0 7 14 11 10 15”.
+Compiling and execution tips:
+	Compiling: g++ -std=c++11 all.cpp
+	Executing: ./a.out
 
 -------------------------------------------
 
-NOTA:
-Como alterar entre cada um dos métodos:
-     Na função main do programa estão comentados os diferentes métodos, da forma: “bool ok = nome do método;” e para testar cada um deles basta retirar o comentário na linha do método que quer testar.
+Executing:
+	Is't going to be asked the start and finish configuration, which should be given the following way: “1 2 3 4 5 6 8 12 13 9 0 7 14 11 10 15”.
 
-| Autor            |   Numero UP       |
-|------------------|:-----------------:|
-|Diogo Pereira     |   201605323       |
-|Afonso Fernandes  |   201696852       |
+-------------------------------------------
+
+Notice:
+how to change each method:
+     In the function main there are different methods commented, like this: “bool ok = nome do método;”. To test each one of them you need to uncomment the method you want to use.
+
+| Author            |   UP Number       |
+|-------------------|:-----------------:|
+|Diogo Pereira      |   201605323       |
+|Afonso Fernandes   |   201696852       |
 
