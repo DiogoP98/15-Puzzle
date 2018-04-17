@@ -24,7 +24,7 @@ Executing:
 
 Notice:
 how to change each method:
-     In the function main there are different methods commented, like this: “bool ok = nome do método;”. To test each one of them you need to uncomment the method you want to use.
+     In the function main there are different methods commented, like this: “bool ok = method name;”. To test each one of them you need to uncomment the method you want to use.
 
 | Author            |   UP Number       |
 |-------------------|:-----------------:|
