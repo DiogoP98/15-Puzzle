@@ -2,7 +2,7 @@
 -------------------------------------------
 
 Program description:
-        In this program “jogo15.cpp” we have some search algorithms, being them: DFS, BFS,IDFS, greddy e A*. For the last 2 we use two different heuristics: misplaced tiles and Manhattan distance. The nodes, which represent the configurations on the tree are repesented on a class, which has an array with the position of each tile, the position with no tile (0),depth and a string with the path to the final node. 
+        In this program “jogo15.cpp” we have some search algorithms, being them: DFS, BFS,IDFS, greedy and A*. For the last 2 we use two different heuristics: misplaced tiles and Manhattan distance. The nodes, which represent the configurations on the tree are repesented on a class, which has an array with the position of each tile, the position with no tile (0),depth and a string with the path to the final node. 
 
 -------------------------------------------
 
