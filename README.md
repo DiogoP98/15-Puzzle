@@ -13,8 +13,7 @@ Requeriments:
 -------------------------------------------
 
 Compiling and execution tips:
-	Compiling: g++ -std=c++11 all.cpp
-	Executing: ./a.out
+	Compiling: g++ -std=c++11 all.cpp                                                                                             Executing: ./a.out
 
 -------------------------------------------
 
